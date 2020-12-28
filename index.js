@@ -1,5 +1,6 @@
 const express = require("express");
 const userRoutes = require("./routes/user");
+
 const app = express();
 const port = 5555;
 
